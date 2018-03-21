@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.subject7979shell.id" version="0.0.1"
+	xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+	<name>Subject7979Shell</name>
+
+	<description>
+		A sample empty mobile app
+	</description>
+
+	<author email="studio-feedback@zend.com " href="http://www.zend.com/en/products/studio">
+		Zend Studio Team
+	</author>
+
+	<content src="index.html" />
+
+	<access origin="*" />
+	<preference name="fullscreen" value="true" />
+	<preference name="webviewbounce" value="false" />
+	<engine name="android" version="5.3.0-nightly.2016.9.20.23fd0982" />
+</widget>
