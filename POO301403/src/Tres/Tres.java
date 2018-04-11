@@ -138,12 +138,14 @@ public class Tres {
 					
 				}
 				
+				
 			} catch (InputMismatchException e) {
 				
 				System.out.println("Debes digitar un número, otros caracteres no son permitidos.");
 				
 				sn.next();
 			}
+			
 		}
 
 	}
